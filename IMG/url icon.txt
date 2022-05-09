@@ -1,0 +1,15 @@
+Setings
+fas fa-solid fa-gear
+Pen
+fas fa-solid fa-pen-fancy
+Code (Label)
+fas fa-solid fa-code
+Seo
+fas fa-solid fa-magnifying-glass
+Marqueting
+fas fa-solid fa-square-poll-vertical
+Globos 
+fas fa-solid fa-comment-dots
+
+
+
